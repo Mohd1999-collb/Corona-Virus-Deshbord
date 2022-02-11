@@ -34,6 +34,6 @@ function updateMap() {
             });
         })
 }
-let interval = 2000;
-setInterval(updateMap, interval);
-// updateMap()
+// let interval = 2000;
+// setInterval(updateMap, interval);
+updateMap()
